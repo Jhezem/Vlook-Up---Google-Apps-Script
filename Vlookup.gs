@@ -15,7 +15,7 @@ var result;
       }  
       else if(Dbusq == compar){
       return result;
-        break;  
+        
     }
   fil++
       fil2++
